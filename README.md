@@ -1,2 +1,2 @@
 # helloworld-bazel
-Sample simple project for Bazel
+Sample simple Java project for Bazel
